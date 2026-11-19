@@ -74170,5 +74170,12 @@
     "author": "s-ed",
     "description": "Show your own display names for vaults in the vault switcher, the vault name label and the window title. Folders and paths are not changed. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "s-ed/obsidian-vault-aliases"
+  },
+  {
+    "id": "agent-hub",
+    "name": "Agent Hub",
+    "author": "sxpwx",
+    "description": "Run QwenWork/Qoder CN/WorkBuddy/Claude Code/Codex/Doubao agents on your vault: built-in protocols, one-click browser sign-in, vault-only tools, 3-tier permission confirmations, bilingual UI. 千问办公/Qoder/WorkBuddy/Claude/Codex/豆包多 Agent 操作笔记库，内置协议、一键授权、三级权限确认、中英双语。",
+    "repo": "sxpwx/DuoAI-Agent-hub"
   }
 ]
